@@ -1,0 +1,1 @@
+[{"title":"celular moto","price":100,"thumbnail":"celular.png","id":1},{"title":"microondas","price":50,"thumbnail":"microondas.png","id":2},{"title":"heladera samsung","price":200,"thumbnail":"heladera.png","id":3}]
