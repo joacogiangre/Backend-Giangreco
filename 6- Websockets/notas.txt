@@ -1,0 +1,17 @@
+[
+    {
+        "user": "Joaquín Giangreco",
+        "nota": "papa, cebolla, choclo",
+        "date": "10/11/2022 18:40:35"
+    },
+    {
+        "user": "Joaquín Giangreco",
+        "nota": "me olvide que queria anotar",
+        "date": "10/11/2022 18:50:22"
+    },
+    {
+        "user": "joaco ",
+        "nota": "tengo que entregar el tp",
+        "date": "11/11/2022 23:42:11"
+    }
+]

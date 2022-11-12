@@ -1,0 +1,17 @@
+.listaNotas {
+    list-style: none;
+}
+
+.user {
+    color: blue;
+}
+
+.date {
+    color: #BC5B8C;
+}
+
+.userNotas {
+    display: inline-block;
+    font-style: italic;
+    color: #6EAC55;
+}
