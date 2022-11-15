@@ -1,0 +1,32 @@
+[
+    {
+        "title": "prueba",
+        "description": "descripcion aqui",
+        "stock": 5,
+        "price": 100,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJRO4S0MVcfx6_XJASKASPyb6RVarrOxbbqNmcROca1hdsCCQG3XAAxdiYl3UhjsLIJg&usqp=CAU",
+        "code": 10,
+        "date": "14/11/2022 23:41:30",
+        "id": 0
+    },
+    {
+        "title": "prueba",
+        "description": "descripcion aqui",
+        "stock": 25,
+        "price": 75,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5H1UvFHdsLODlCKqgavueK1AD5jhrv9Cv_FlNay68cERalgPgdVUqmbRHyas3v0nQtCw&usqp=CAU",
+        "code": 15,
+        "date": "14/11/2022 23:44:19",
+        "id": 1
+    },
+    {
+        "title": "prueba",
+        "description": "descripcion aqui",
+        "stock": 30,
+        "price": 50,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwFNIzrQlKJfHSPvuJ9208lnciR7IWoQHGaD7ERQT8JmD_pKUFmllasRbG3V8hiID2pw&usqp=CAU",
+        "code": 15,
+        "date": "14/11/2022 23:49:50",
+        "id": 2
+    }
+]
